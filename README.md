@@ -1,84 +1,95 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Sana Khatib</title>
+
   <style>
+    @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap');
+
     body {
-      font-family: 'Poppins', sans-serif;
-      background-color: #faf8ff;
-      color: #333;
+      font-family: 'Quicksand', sans-serif;
+      background: linear-gradient(135deg, #f8f5ff, #fff);
       margin: 0;
       padding: 0;
       display: flex;
-      flex-direction: column;
-      align-items: center;
-      text-align: center;
-      min-height: 100vh;
       justify-content: center;
+      align-items: center;
+      height: 100vh;
+      color: #444;
+    }
+
+    .card {
+      background: #ffffffcc;
+      backdrop-filter: blur(6px);
+      border-radius: 20px;
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+      padding: 40px 50px;
+      max-width: 480px;
+      text-align: center;
+      animation: fadeIn 1s ease;
     }
 
     h1 {
-      font-size: 2.5em;
-      color: #7c4dff;
+      color: #6a4bc4;
+      font-size: 2.3em;
       margin-bottom: 0.3em;
     }
 
     h2 {
-      font-weight: 400;
-      color: #666;
+      font-weight: 500;
+      font-size: 1.05em;
+      color: #777;
       margin-top: 0;
-      margin-bottom: 1em;
+      margin-bottom: 1.5em;
     }
 
     p {
-      max-width: 600px;
       line-height: 1.6;
+      margin: 0.7em 0;
       font-size: 1.05em;
-      margin: 0.5em auto 1em;
-    }
-
-    a {
-      text-decoration: none;
-      color: #7c4dff;
-      font-weight: 500;
-    }
-
-    a:hover {
-      text-decoration: underline;
     }
 
     .socials {
-      margin-top: 1.5em;
+      margin-top: 1.8em;
     }
 
     .socials a {
+      text-decoration: none;
+      color: #6a4bc4;
+      font-weight: 600;
       margin: 0 10px;
-      font-size: 1.1em;
+      transition: all 0.3s ease;
+    }
+
+    .socials a:hover {
+      color: #a78bfa;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
     }
   </style>
 </head>
 
 <body>
-  <h1>Sana Khatib</h1>
-  <h2>PhD Student · Systems Biology · Weizmann Institute of Science</h2>
+  <div class="card">
+    <h1>Sana Khatib</h1>
+    <h2>PhD Student at Prof. Naama Barkai's Lab, Department of Molecular Genetics</h2>
 
-  <p>
-    I’m a curious scientist exploring how transcription factors and intrinsically disordered regions 
-    shape gene regulation dynamics. My work combines <b>biochemistry</b>, <b>molecular biology</b>, 
-    and a bit of <b>computational analysis</b> to understand how order emerges from biological complexity.
-  </p>
+    <p>
+      I’m a molecular biologist studying how transcription factors and intrinsically 
+      disordered regions orchestrate gene regulation. I combine <b>biochemistry</b>, 
+      <b>quantitative analysis</b>, and a bit of <b>creativity</b> to uncover how 
+      complexity emerges in living systems.
+    </p>
 
-  <p>
-    When I’m not in the lab, you’ll probably find me <i>writing, traveling, or learning languages</i>.
-  </p>
+    <p>
+      Outside the lab, I love <i>traveling, designing, and learning new languages</i>.
+    </p>
 
-  <div class="socials">
-    <a href="https://www.linkedin.com/in/sana-khateeb" target="_blank">LinkedIn</a> ·
-    <a href="mailto:sana.khateeb@weizmann.ac.il">Email</a> ·
-    <a href="https://github.com/sanakhateeb" target="_blank">GitHub</a>
-  </div>
+      </div>
 </body>
 </html>
-
