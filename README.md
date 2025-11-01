@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -76,7 +76,7 @@
 
 <body>
   <div class="card">
-    <h1>Sana Khatib</h1>
+    <h1>A bit about me</h1>
     <h2>PhD Student at Prof. Naama Barkai's Lab, Department of Molecular Genetics</h2>
 
     <p>
@@ -87,7 +87,7 @@
     </p>
 
     <p>
-      Outside the lab, I love <i>traveling, designing, and learning new languages</i>.
+      Outside the lab, I love <i>traveling, petting cats, and learning new languages</i>.
     </p>
 
       </div>
