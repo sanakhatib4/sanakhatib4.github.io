@@ -1,4 +1,4 @@
-# 🌸 [Sana Khatib](https://weizmann.elsevierpure.com/en/persons/sana-khatib/)
+# 🌸 Sana Khatib
 **PhD Student · Systems Biology · Weizmann Institute of Science**
 
 Hi there! I’m a biochemist studying how **transcription factors** and  
@@ -8,7 +8,7 @@ I combine **biochemistry**, **quantitative biology**, and a bit of **creativity*
 ---
 
 ## 🧬 A bit about Me
-I’m currently doing my PhD in the [**Barkai Lab**](https://barkailab.wixsite.com/barkai) at the **Weizmann Institute**,  
+I’m currently doing my PhD in the [**Barkai Lab**](https://barkailab.wixsite.com/barkai) at the [**Weizmann Institute**](https://weizmann.elsevierpure.com/en/persons/sana-khatib/),  
 focusing on protein–DNA interactions and regulatory network dynamics.  
 
 ---
@@ -28,4 +28,4 @@ focusing on protein–DNA interactions and regulatory network dynamics.
 
 ---
 
-*Soft pastel vibes · curious mind · powered by caffeine ☕️*
+
