@@ -1,4 +1,4 @@
-# 🌸 Sana Khatib
+# 🌸 [Sana Khatib](https://weizmann.elsevierpure.com/en/persons/sana-khatib/)
 **PhD Student · Systems Biology · Weizmann Institute of Science**
 
 Hi there! I’m a biochemist studying how **transcription factors** and  
