@@ -1,3 +1,4 @@
+<style>header h1 {display:none !important;}</style>
 # 🌸 Sana Khatib
 **PhD Student · Systems Biology · Weizmann Institute of Science**
 
