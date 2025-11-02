@@ -1,5 +1,4 @@
-<style>header h1 {display:none !important;}</style>
-# 🌸 Sana Khatib
+# 🌸 Introduction
 **PhD Student · Systems Biology · Weizmann Institute of Science**
 
 Hi there! I’m a biochemist studying how **transcription factors** and  
